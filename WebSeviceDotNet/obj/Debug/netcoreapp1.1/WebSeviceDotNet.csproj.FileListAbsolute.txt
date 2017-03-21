@@ -1,0 +1,9 @@
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\bin\Debug\netcoreapp1.1\WebSeviceDotNet.deps.json
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\bin\Debug\netcoreapp1.1\WebSeviceDotNet.runtimeconfig.json
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\bin\Debug\netcoreapp1.1\WebSeviceDotNet.runtimeconfig.dev.json
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\bin\Debug\netcoreapp1.1\WebSeviceDotNet.dll
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\obj\Debug\netcoreapp1.1\WebSeviceDotNet.csprojResolveAssemblyReference.cache
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\obj\Debug\netcoreapp1.1\WebSeviceDotNet.AssemblyInfo.cs
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\bin\Debug\netcoreapp1.1\WebSeviceDotNet.pdb
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\obj\Debug\netcoreapp1.1\WebSeviceDotNet.dll
+c:\users\rfreites\documents\visual studio 2017\Projects\WebSeviceDotNet\WebSeviceDotNet\obj\Debug\netcoreapp1.1\WebSeviceDotNet.pdb
